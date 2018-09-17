@@ -10,3 +10,9 @@
 - Run `java @problematic-cp.txt Main` you get the successful result.
 
 ![image](https://user-images.githubusercontent.com/12689835/45594069-98061a00-b9c6-11e8-9007-69a2aff51c76.png)
+
+# Analysis
+
+I did some investigation and found out the classpath is slightly modified somehow:
+
+![qq20180917-092555](https://user-images.githubusercontent.com/12689835/45603163-c4b84100-ba5b-11e8-85ea-928c715cf562.png)
